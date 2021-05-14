@@ -1,0 +1,6 @@
+---
+name: Dupe
+version: 0.0.1
+main: Rage\Dupe\Main
+api: 3.19.0
+...
